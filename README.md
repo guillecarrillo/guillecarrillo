@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Guillericus
-- 👀 I’m interested in evolution, bilogy and apes
+- 👀 I’m interested in evolution, genetics and apes
 - 🌱 I’m currently learning bioinformatics
 - 📫 How to reach me: @l_de_carrillo on twitter
