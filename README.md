@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guillericus or Guille 
-- 👀 I’m interested in evolution, genetics and apes
-- 🌱 Currently deveoloping my master's thesis at the Institute of Evolutionary Biology (IBE) in Barcelona
+- 👋 Hi, I’m @guillecarrillo or just Guille 
+- 👀 I’m interested in evolution, omics, and apes
+- 🌱 Currently developing my master's thesis at the Institute of Evolutionary Biology (IBE) in Barcelona about paleoproteomics
 
